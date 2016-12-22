@@ -3,7 +3,7 @@
     "type":         "library",
     "description":  "A custom error handler for displaying 404 pages.",
     "keywords":     ["canarium", "una realidad"],
-    "homepage":     "http://packages.canarium.ph",
+    "homepage":     "http://www.canarium.ph",
     "license":      "MIT",
     "authors": [
         {
