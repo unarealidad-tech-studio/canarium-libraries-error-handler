@@ -4,7 +4,7 @@
     "description":  "Lorem Ipsum",
     "keywords":     ["canarium", "una realidad"],
     "homepage":     "http://packages.canarium.ph",
-    "license":      "proprietary",
+    "license":      "MIT",
     "authors": [
         {
             "name": "Jethro Laviste.",
