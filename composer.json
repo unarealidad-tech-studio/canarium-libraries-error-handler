@@ -1,7 +1,7 @@
 {
     "name":         "unarealidad/canarium-libraries-error-handler",
     "type":         "library",
-    "description":  "Lorem Ipsum",
+    "description":  "A custom error handler for displaying 404 pages.",
     "keywords":     ["canarium", "una realidad"],
     "homepage":     "http://packages.canarium.ph",
     "license":      "MIT",
