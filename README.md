@@ -1,6 +1,6 @@
 # canarium-libraries-error-handler
 
-A custom error handler for displaying 404 pages for canarium. This library attaches `ErrorHandler\View\NotFoundStrategy` on bootstrap.
+A custom error handler for displaying 404 pages in canarium. This library attaches `ErrorHandler\View\NotFoundStrategy` on bootstrap.
 
 ## Template
 
